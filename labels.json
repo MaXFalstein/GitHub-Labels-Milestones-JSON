@@ -1,100 +1,100 @@
-awaiting-reply {
-    name: awaiting reply;
-    color: #fbca04;
+"awaiting-reply": {
+    "name": "awaiting reply",
+    "color": "#fbca04"
 }
 
-awaiting-review {
-    name: awaiting review;
-    color: #d93f0b;
+"awaiting-review": {
+    "name": "awaiting review",
+    "color": "#d93f0b"
 }
 
-bug {
-    name: bug;
-    color: #fc2929;
+"bug": {
+    "name": "bug",
+    "color": #fc2929
 }
 
-ci {
-    name: ci;
-    color: #006b75;
+"ci": {
+    "name": "ci",
+    "color": "#006b75"
 }
 
-discussion {
-    name: discussion;
-    color: #d4c5f9;
+"discussion": {
+    "name": "discussion",
+    "color": "#d4c5f9"
 }
 
-documentation {
-    name: documentation;
-    color: #0052cc;
+"documentation": {
+    "name": "documentation",
+    "color": "#0052cc"
 }
 
-duplicate {
-    name: duplicate;
-    color: #cccccc;
+"duplicate": {
+    "name": "duplicate",
+    "color": "#cccccc"
 }
 
-enhancement {
-    name: enhancement;
-    color: #84b6eb;
+"enhancement": {
+    "name": "enhancement",
+    "color": "#84b6eb"
 }
 
-first-timers-only {
-    name: first timers only;
-    color: #0052cc;
+"first-timers-only": {
+    "name": "first timers only",
+    "color": "#0052cc"
 }
 
-help-wanted {
-    name: help wanted;
-    color: #159818;
+"help-wanted": {
+    "name": "help wanted",
+    "color": "#159818"
 }
 
-hold {
-    name: hold;
-    color: #b60205;
+"hold": {
+    "name": "hold",
+    "color": "#b60205"
 }
 
-improvement {
-    name: improvement;
-    color: #1d76db;
+"improvement": {
+    "name": "improvement",
+    "color": "#1d76db"
 }
 
-invalid {
-    name: invalid;
-    color: #e6e6e6;
+"invalid": {
+    "name": "invalid",
+    "color": "#e6e6e6"
 }
 
-new-feature {
-    name: new feature;
-    color: #0e8a16;
+"new-feature": {
+    "name": "new feature",
+    "color": "#0e8a16"
 }
 
-npm {
-    name: npm;
-    color: #b60205;
+"npm": {
+    "name": "npm",
+    "color": "#b60205"
 }
 
-question {
-    name: question;
-    color: #cc317c;
+"question": {
+    "name": "question",
+    "color": "#cc317c"
 }
 
-release {
-    name: release;
-    color: #;
+"release": {
+    "name": "release",
+    "color": "#"
 }
 
-road-map {
-    name: road map;
-    color: #006b75;
+"road-map": {
+    "name": "road map",
+    "color": #006b75
 }
 
-will-not-fix {
-    name: will not fix;
-    color: #ffff;
+"will-not-fix": {
+    "name": "will not fix",
+    "color": "#ffff"
 }
 
- {
-    name: ;
-    color: #;
+: {
+    name: ,
+    color: #
 }
 
