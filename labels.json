@@ -1,0 +1,95 @@
+awaiting-reply {
+    name: ;
+    color: #;
+}
+
+awaiting-review {
+    name: ;
+    color: #;
+}
+
+bug {
+    name: ;
+    color: #;
+}
+
+ci {
+    name: ;
+    color: #;
+}
+
+discussion {
+    name: ;
+    color: #;
+}
+
+documentation {
+    name: ;
+    color: #;
+}
+
+duplicated {
+    name: ;
+    color: #;
+}
+
+enhancement {
+    name: ;
+    color: #;
+}
+
+help-wanted {
+    name: ;
+    color: #;
+}
+
+hold {
+    name: ;
+    color: #;
+}
+
+improvement {
+    name: ;
+    color: #;
+}
+
+invalid {
+    name: ;
+    color: #;
+}
+
+new-feature {
+    name: ;
+    color: #;
+}
+
+npm {
+    name: ;
+    color: #;
+}
+
+question {
+    name: ;
+    color: #;
+}
+
+release {
+    name: ;
+    color: #;
+}
+
+road-map {
+    name: ;
+    color: #;
+}
+
+will-not-fix {
+    name: ;
+    color: #;
+}
+
+ {
+    name: ;
+    color: #;
+}
+
