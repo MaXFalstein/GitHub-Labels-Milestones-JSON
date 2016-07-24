@@ -38,6 +38,11 @@ enhancement {
     color: #84b6eb;
 }
 
+first-timers-only {
+    name: first timers only;
+    color: #0052cc;
+}
+
 help-wanted {
     name: help wanted;
     color: #159818;
@@ -65,7 +70,7 @@ new-feature {
 
 npm {
     name: npm;
-    color: #;
+    color: #b60205;
 }
 
 question {
