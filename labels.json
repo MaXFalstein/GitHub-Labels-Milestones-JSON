@@ -10,7 +10,7 @@
 
 "bug": {
     "name": "bug",
-    "color": #fc2929
+    "color": "#fc2929"
 }
 
 "ci": {
@@ -85,7 +85,7 @@
 
 "road-map": {
     "name": "road map",
-    "color": #006b75
+    "color": "#006b75"
 }
 
 "will-not-fix": {
