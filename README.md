@@ -1,4 +1,4 @@
-# GitHub Labels in JSON
+# GitHub Labels and Milestones in JSON
 
 I emailed GitHub to suggest implementing a JSON file in the .github configuration files for setting up the labels.
 
